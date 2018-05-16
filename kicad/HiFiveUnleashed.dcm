@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Earth
+D Ground power flag symbol
+K power pwr gnd ground
+F ~
+$ENDCMP
+#
+$CMP VDD
+D positive voltage power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+#End Doc Library
