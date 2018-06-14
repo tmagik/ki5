@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name HiFiveUnleashed)(type Legacy)(uri /home/antonlysak/RISC-V/SiFive/Unleashed/KiCAD/PRO/HiFiveUnleashed/HiFiveUnleashed.lib)(options "")(descr ""))
-)

@@ -1,11 +1,11 @@
 EESchema Schematic File Version 4
-LIBS:HiFiveUnleashed-cache
+LIBS:Ki5-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 9
-Title ""
+Title "U540 RISC-V MPU eval board"
 Date ""
 Rev ""
 Comp ""
@@ -62,8 +62,8 @@ U 5AF2BD08
 F0 "Ethernet" 50
 F1 "Ethernet-SchDoc.sch" 50
 $EndSheet
-Text Notes 7250 7000 0    276  ~ 55
-HiFive Unleashed
+Text Notes 8735 7015 0    276  ~ 55
+Ki5
 Text Notes 800  1050 0    207  ~ 0
 Freedom U540 DDR and ChipLink
 Text Notes 800  1750 0    207  ~ 0
