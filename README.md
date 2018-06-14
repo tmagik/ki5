@@ -10,10 +10,11 @@ First draft done for:
 * Power Supply
 * USB to UART and JTAG
 * Freedom U540 IO and Power
+* DDR 4x8 32 bits
 
 It remains to finish and check power circuits for this list. 
 
-DDR 4x8 32 bits, DDR 4x8 32 bit and ECC, Freedom U540 DDR and Chiplink and
+DDR 4x8 32 bit and ECC, Freedom U540 DDR and Chiplink and
 board are in progress. 
 
 
