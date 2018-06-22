@@ -1,15 +1,14 @@
 EESchema Schematic File Version 4
-LIBS:Ki5-cache
 EELAYER 26 0
 EELAYER END
 $Descr B 17000 11000
 encoding utf-8
 Sheet 9 9
-Title "U540 RISC-V MPU eval board"
+Title "Ethernet"
 Date "08 05 2018"
 Rev ""
 Comp ""
-Comment1 "Ethernet"
+Comment1 ""
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -1518,7 +1517,7 @@ U 1 1 5AF1D075
 P 5600 5950
 F 0 "IC1" H 5600 5950 50  0001 C CNN
 F 1 "VSC8541XMV-01" H 6230 3345 50  0000 C CNN
-F 2 "Package_DFN_QFN:QFN-68-1EP_8x8mm_Pitch0.4mm" H 5590 750 60  0001 C CNN
+F 2 "Package_DFN_QFN:QFN-68-1EP_8x8mm_P0.4mm_EP5.2x5.2mm" H 5590 750 60  0001 C CNN
 F 3 "" H 5590 750 60  0000 C CNN
 F 4 "1" V 1100 3450 60  0001 C CNN "CrossRef"
 	1    5600 5950
@@ -1829,7 +1828,7 @@ U 1 1 5AF1D05D
 P 11530 1600
 F 0 "U35" H 11205 2045 50  0000 C CNN
 F 1 "MIC5353-2.5YMT-TR" H 11530 1150 50  0000 C CNN
-F 2 "" H 11530 1600 60  0001 C CNN
+F 2 "Package_DFN_QFN:MLF-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.26mm" H 11530 1600 60  0001 C CNN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/mic5353.pdf" H 11530 1600 60  0001 C CNN
 	1    11530 1600
 	1    0    0    -1  
@@ -1840,7 +1839,7 @@ U 1 1 5AF1D05C
 P 11440 3300
 F 0 "U36" H 11125 3745 50  0000 C CNN
 F 1 "NCP133AMX100TCG" H 11445 2845 50  0000 C CNN
-F 2 "" H 11440 3300 60  0001 C CNN
+F 2 "Package_DFN_QFN:DFN-6-1EP_1.2x1.2mm_P0.4mm_EP0.3x0.94mm" H 11440 3300 60  0001 C CNN
 F 3 "http://www.onsemi.com/pub/Collateral/NCP133-D.PDF" H 11440 3300 60  0001 C CNN
 	1    11440 3300
 	1    0    0    -1  
@@ -2033,7 +2032,7 @@ U 1 1 5AF1D04D
 P 10050 5450
 F 0 "T1" H 10405 4755 50  0000 C CNN
 F 1 "TG111-MSC13LF" H 10035 6155 50  0000 C CNN
-F 2 "" H 10850 5550 60  0001 C CNN
+F 2 "Transformer_SMD:Transformer_Ethernet_HALO_TG111-MSC13" H 10850 5550 60  0001 C CNN
 F 3 "https://www.haloelectronics.com/pdf/discrete-genesus.pdf" H 9945 6270 60  0001 C CNN
 	1    10050 5450
 	-1   0    0    1   

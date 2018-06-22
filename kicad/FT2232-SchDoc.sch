@@ -1,15 +1,14 @@
 EESchema Schematic File Version 4
-LIBS:Ki5-cache
 EELAYER 26 0
 EELAYER END
 $Descr B 17000 11000
 encoding utf-8
 Sheet 6 9
-Title "U540 RISC-V MPU eval board"
+Title "USB to UART and JTAG"
 Date "08 05 2018"
 Rev ""
 Comp ""
-Comment1 "USB to UART and JTAG"
+Comment1 ""
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -1631,7 +1630,7 @@ U 1 1 5B159F0F
 P 2450 5450
 F 0 "J7" H 2505 5917 50  0000 C CNN
 F 1 "USB_B_Micro" H 2505 5826 50  0000 C CNN
-F 2 "" H 2600 5400 50  0001 C CNN
+F 2 "Connector_USB:USB_Micro-B_Molex_47346-0001" H 2600 5400 50  0001 C CNN
 F 3 "~" H 2600 5400 50  0001 C CNN
 	1    2450 5450
 	1    0    0    -1  

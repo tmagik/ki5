@@ -1,15 +1,14 @@
 EESchema Schematic File Version 4
-LIBS:Ki5-cache
 EELAYER 26 0
 EELAYER END
 $Descr C 22000 17000
 encoding utf-8
 Sheet 8 9
-Title "U540 RISC-V MPU eval board"
+Title "FMC Connector"
 Date "08 05 2018"
 Rev ""
 Comp ""
-Comment1 "FMC Connector"
+Comment1 ""
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -1553,7 +1552,7 @@ U 1 1 5B259F82
 P 4045 4530
 F 0 "J9" H 3865 6555 50  0000 L CNN
 F 1 "ASP-134602-01" H 3850 2445 50  0000 L CNN
-F 2 "" H 4045 4530 50  0001 C CNN
+F 2 "Connector_Samtec:Samtec_FMC_ASP-134602-01_10x40_P0.5mm_Vertical" H 4045 4530 50  0001 C CNN
 F 3 "http://suddendocs.samtec.com/prints/asp-134602-01-mkt.pdf" H 4195 6630 50  0001 C CNN
 	1    4045 4530
 	1    0    0    -1  
@@ -1564,7 +1563,7 @@ U 2 1 5B28FD52
 P 7250 4515
 F 0 "J9" H 7085 6535 50  0000 L CNN
 F 1 "ASP-134602-01" H 7055 2445 50  0000 L CNN
-F 2 "" H 7250 4515 50  0001 C CNN
+F 2 "Connector_Samtec:Samtec_FMC_ASP-134602-01_10x40_P0.5mm_Vertical" H 7250 4515 50  0001 C CNN
 F 3 "http://suddendocs.samtec.com/prints/asp-134602-01-mkt.pdf" H 7400 6615 50  0001 C CNN
 	2    7250 4515
 	1    0    0    -1  
@@ -1575,7 +1574,7 @@ U 3 1 5B2FB330
 P 12780 4520
 F 0 "J9" H 12610 6540 50  0000 L CNN
 F 1 "ASP-134602-01" H 12590 2415 50  0000 L CNN
-F 2 "" H 12780 4520 50  0001 C CNN
+F 2 "Connector_Samtec:Samtec_FMC_ASP-134602-01_10x40_P0.5mm_Vertical" H 12780 4520 50  0001 C CNN
 F 3 "http://suddendocs.samtec.com/prints/asp-134602-01-mkt.pdf" H 12930 6620 50  0001 C CNN
 	3    12780 4520
 	1    0    0    -1  
@@ -1586,7 +1585,7 @@ U 4 1 5B331403
 P 16480 4520
 F 0 "J9" H 16315 6545 50  0000 L CNN
 F 1 "ASP-134602-01" H 16290 2425 50  0000 L CNN
-F 2 "" H 16480 4520 50  0001 C CNN
+F 2 "Connector_Samtec:Samtec_FMC_ASP-134602-01_10x40_P0.5mm_Vertical" H 16480 4520 50  0001 C CNN
 F 3 "http://suddendocs.samtec.com/prints/asp-134602-01-mkt.pdf" H 16630 6620 50  0001 C CNN
 	4    16480 4520
 	1    0    0    -1  
@@ -1597,7 +1596,7 @@ U 5 1 5B3671B3
 P 19310 4455
 F 0 "J9" H 19145 6480 50  0000 L CNN
 F 1 "ASP-134602-01" H 19120 2365 50  0000 L CNN
-F 2 "" H 19310 4455 50  0001 C CNN
+F 2 "Connector_Samtec:Samtec_FMC_ASP-134602-01_10x40_P0.5mm_Vertical" H 19310 4455 50  0001 C CNN
 F 3 "http://suddendocs.samtec.com/prints/asp-134602-01-mkt.pdf" H 19460 6555 50  0001 C CNN
 	5    19310 4455
 	1    0    0    -1  
@@ -1608,7 +1607,7 @@ U 6 1 5B39CE06
 P 4075 10310
 F 0 "J9" H 3910 12325 50  0000 L CNN
 F 1 "ASP-134602-01" H 3865 8215 50  0000 L CNN
-F 2 "" H 4075 10310 50  0001 C CNN
+F 2 "Connector_Samtec:Samtec_FMC_ASP-134602-01_10x40_P0.5mm_Vertical" H 4075 10310 50  0001 C CNN
 F 3 "http://suddendocs.samtec.com/prints/asp-134602-01-mkt.pdf" H 4225 12410 50  0001 C CNN
 	6    4075 10310
 	1    0    0    -1  
@@ -1619,7 +1618,7 @@ U 7 1 5B3D2A65
 P 9050 10190
 F 0 "J9" H 8880 12215 50  0000 L CNN
 F 1 "ASP-134602-01" H 8855 8100 50  0000 L CNN
-F 2 "" H 9050 10190 50  0001 C CNN
+F 2 "Connector_Samtec:Samtec_FMC_ASP-134602-01_10x40_P0.5mm_Vertical" H 9050 10190 50  0001 C CNN
 F 3 "http://suddendocs.samtec.com/prints/asp-134602-01-mkt.pdf" H 9200 12290 50  0001 C CNN
 	7    9050 10190
 	1    0    0    -1  
@@ -1630,7 +1629,7 @@ U 8 1 5B4735C3
 P 13610 10205
 F 0 "J9" H 13440 12235 50  0000 L CNN
 F 1 "ASP-134602-01" H 13410 8105 50  0000 L CNN
-F 2 "" H 13610 10205 50  0001 C CNN
+F 2 "Connector_Samtec:Samtec_FMC_ASP-134602-01_10x40_P0.5mm_Vertical" H 13610 10205 50  0001 C CNN
 F 3 "http://suddendocs.samtec.com/prints/asp-134602-01-mkt.pdf" H 13760 12305 50  0001 C CNN
 	8    13610 10205
 	1    0    0    -1  
@@ -1641,7 +1640,7 @@ U 9 1 5B4A9142
 P 16535 10200
 F 0 "J9" H 16365 12215 50  0000 L CNN
 F 1 "ASP-134602-01" H 16350 8105 50  0000 L CNN
-F 2 "" H 16535 10200 50  0001 C CNN
+F 2 "Connector_Samtec:Samtec_FMC_ASP-134602-01_10x40_P0.5mm_Vertical" H 16535 10200 50  0001 C CNN
 F 3 "http://suddendocs.samtec.com/prints/asp-134602-01-mkt.pdf" H 16685 12300 50  0001 C CNN
 	9    16535 10200
 	1    0    0    -1  
@@ -1652,7 +1651,7 @@ U 10 1 5B4DEBE5
 P 19405 10120
 F 0 "J9" H 19230 12140 50  0000 L CNN
 F 1 "ASP-134602-01" H 19195 8020 50  0000 L CNN
-F 2 "" H 19405 10120 50  0001 C CNN
+F 2 "Connector_Samtec:Samtec_FMC_ASP-134602-01_10x40_P0.5mm_Vertical" H 19405 10120 50  0001 C CNN
 F 3 "http://suddendocs.samtec.com/prints/asp-134602-01-mkt.pdf" H 19555 12220 50  0001 C CNN
 	10   19405 10120
 	1    0    0    -1  
